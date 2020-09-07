@@ -13,5 +13,5 @@ Navegação usando o react-navigation.
 
 <br />
 <div>
-    <img src="./assets/video.gif"  width="500"/>
+    <img src="./assets/video.gif"  width="300"/>
 </div>
