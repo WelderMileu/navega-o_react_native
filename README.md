@@ -1,3 +1,3 @@
 # Video
 
-![]('./assets/video.gif')
+![](video.gif)
